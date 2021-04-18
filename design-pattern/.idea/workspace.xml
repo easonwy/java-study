@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47f8002b-8b92-43af-806d-e43d452c6909" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="design-pattern" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mYgOxSsUUmICeqpRolPW6UuQ52" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/org/github/easonwy/singleton" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.github.easonwy.factory.simplefactory" />
+      <recent name="org.github.easonwy.singleton" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client02 (1)">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.github.easonwy.singleton.Client" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.github.easonwy.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.github.easonwy.factory.simplefactory.Client01" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.github.easonwy.factory.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.github.easonwy.factory.simplefactory.Client02" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.github.easonwy.factory.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.github.easonwy.singleton.Client02" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.github.easonwy.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.github.easonwy.singleton.Client03" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.github.easonwy.singleton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client02 (1)" />
+        <item itemvalue="Application.Client01" />
+        <item itemvalue="Application.Client03" />
+        <item itemvalue="Application.Client02" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47f8002b-8b92-43af-806d-e43d452c6909" name="Default Changelist" comment="" />
+      <created>1609675909976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609675909976</updated>
+      <workItem from="1609675911914" duration="618000" />
+      <workItem from="1609676552916" duration="3073000" />
+      <workItem from="1609850283779" duration="5911000" />
+      <workItem from="1611059165232" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-120" y="135" key="#Project_Structure" timestamp="1609675924349">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="-120" y="135" key="#Project_Structure/0.0.2048.1112@0.0.2048.1112" timestamp="1609675924349" />
+    <state x="324" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1609853491517">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="324" y="272" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1609853491517" />
+    <state x="293" y="284" key="FileChooserDialogImpl" timestamp="1609678633932">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="293" y="284" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1609678633932" />
+    <state width="2005" height="307" key="GridCell.Tab.0.bottom" timestamp="1609858078118">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="307" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1609858078118" />
+    <state width="2005" height="307" key="GridCell.Tab.0.center" timestamp="1609858078117">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="307" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1609858078117" />
+    <state width="2005" height="307" key="GridCell.Tab.0.left" timestamp="1609858078117">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="307" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1609858078117" />
+    <state width="2005" height="307" key="GridCell.Tab.0.right" timestamp="1609858078117">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="307" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1609858078117" />
+    <state x="13" y="197" key="SettingsEditor" timestamp="1609854510324">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="13" y="197" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1609854510324" />
+  </component>
+</project>
