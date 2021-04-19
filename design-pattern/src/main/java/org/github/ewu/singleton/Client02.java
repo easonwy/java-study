@@ -1,4 +1,4 @@
-package org.github.easonwy.singleton;
+package org.github.ewu.singleton;
 
 import java.io.*;
 import java.lang.reflect.Constructor;
@@ -20,7 +20,7 @@ public class Client02 {
 
 
         // 通过反射的方式直接电泳私有构造器
-        Class<SingletonDemo06> clazz = (Class<SingletonDemo06>)Class.forName("org.github.easonwy.singleton.SingletonDemo06");
+        Class<SingletonDemo06> clazz = (Class<SingletonDemo06>)Class.forName("org.github.ewu.singleton.SingletonDemo06");
         Constructor<SingletonDemo06> c = clazz.getDeclaredConstructor(null);
         c.setAccessible(true);
         SingletonDemo06 s3 = c.newInstance();

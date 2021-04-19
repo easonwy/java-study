@@ -1,4 +1,4 @@
-package org.github.easonwy.singleton;
+package org.github.ewu.singleton;
 
 /**
  * 饿汉式单例模式实现

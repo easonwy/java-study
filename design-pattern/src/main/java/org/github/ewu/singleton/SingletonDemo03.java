@@ -1,4 +1,4 @@
-package org.github.easonwy.singleton;
+package org.github.ewu.singleton;
 
 /**
  * 双重检测锁实现单例模式

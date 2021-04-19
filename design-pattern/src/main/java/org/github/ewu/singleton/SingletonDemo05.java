@@ -1,4 +1,4 @@
-package org.github.easonwy.singleton;
+package org.github.ewu.singleton;
 
 /**
  * 使用枚举实现单例模式

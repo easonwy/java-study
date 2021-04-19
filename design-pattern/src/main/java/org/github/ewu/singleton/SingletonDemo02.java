@@ -1,4 +1,4 @@
-package org.github.easonwy.singleton;
+package org.github.ewu.singleton;
 
 /**
  * 懒汉式实现（单例对象延迟加载）

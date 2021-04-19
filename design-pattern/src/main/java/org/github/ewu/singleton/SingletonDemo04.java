@@ -1,4 +1,4 @@
-package org.github.easonwy.singleton;
+package org.github.ewu.singleton;
 
 /**
  * 静态内部类实现单例模式(也是一种懒加载方式）

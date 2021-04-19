@@ -1,4 +1,4 @@
-package org.github.easonwy.factory.simplefactory;
+package org.github.ewu.factory.simplefactory;
 
 /**
  * @author ewu
